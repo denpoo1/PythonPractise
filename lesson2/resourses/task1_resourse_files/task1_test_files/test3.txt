@@ -1,0 +1,25 @@
+RANGES OF NUMBERS
+
+When writing ranges of numbers in text, the word “through” or “to” should be used to connect them.
+
+Example:
+Samples 6 through 10 were reacted in a similar manner but at approximately 100°C.
+
+When the ranges are numbers of several digits, no digits from the 2nd number in the range should be omitted.
+
+Example:
+1938 through 1942
+[not “1938–42”]
+
+If a range of values begins a sentence, both numbers in the range, the span word, and the units are spelled out.
+
+Example:
+One hundred thirty to one hundred eighty grams per liter is the hemoglobin reference range for men.
+[not “One hundred thirty to 180 g/L is the hemoglobin reference range for men.”)
+
+Ranges of numbers and their accompanying units are expressed with a single unit symbol following the 2nd number of the range, except when the symbol is set close without spacing.
+
+Examples:
+20 to 30 kg
+120 to 130 km/h
+10% to 100%

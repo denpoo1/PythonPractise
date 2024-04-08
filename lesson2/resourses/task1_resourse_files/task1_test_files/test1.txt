@@ -1,0 +1,23 @@
+NUMERALS OR WORDS
+
+In scientific text, use arabic numerals in preference of words when the number stands for anything that can be counted. By the way, numerals are the symbols used to represent numbers. For example, there are 10 arabic numerals, i.e., 0 to 9.
+
+Examples:
+3 assays
+2 hypotheses
+120 samples
+
+Note:
+For non-technical texts, the Chicago Manual suggests to spell out all numbers from one through one hundred. It does, however, also give an alternative rule that applies to scientific or journalistic contexts, i.e., that of spelling out single-digit numbers and using numerals for all others.
+
+Example:
+Twenty-two kids and seven dogs were packed into two vans.
+The property is held on a ninety-nine-year lease.
+The house I live in is 112 years old.
+
+Yet other scientific style guides recommend that cardinal numbers up to 12 should be written in words, except when telling the time.
+
+Examples:
+We need eight chairs and two tables.
+She has four brothers.
+The bus leaves at 10 am.

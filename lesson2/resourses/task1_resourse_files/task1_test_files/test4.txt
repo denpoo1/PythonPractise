@@ -1,0 +1,19 @@
+PERCENTAGES
+
+In scientific writing, percentages are expressed using numerals and the percent sign (%), with no space between them.
+
+Examples:
+The success rate was 95%.
+The equivalence margin ranged from –15% to +15%.
+
+If the percentage starts a sentence, both the number and “percent” are spelled out.
+
+Example:
+Twenty-five percent of the samples were positive.
+
+
+References
+
+    Scientific Style and Format. The CBE Manual for Authors, Editors, and Publishers (6th edition)
+    AMA Manual of Style. A Guide for Authors and Editors (11th edition)
+    The Chicago Manual of Style (17th edition)

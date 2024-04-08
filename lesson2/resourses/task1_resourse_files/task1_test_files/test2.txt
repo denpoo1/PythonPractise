@@ -1,0 +1,24 @@
+FORMATTING NUMBERS
+
+In numbers of 2 to 4 digits, the numerals are run together, i.e., no extra spaces are used.
+
+Examples:
+35        789        1200        5486
+
+In numbers of more than 4 digits, British and American English mark off groups of 3 digits with commas. The European convention (ISO 1992a) is to separate groups of 3 digits with periods.
+
+Examples:
+5,450,000      60,780,000      [British and American]
+5.450.000      60.780.000      [European]
+
+Whereas British and American English uses decimal points, European convention uses decimal commas.
+
+Examples:
+5.4      7.9      [British and American]
+5,4      7,9      [European]
+
+In decimal numbers smaller than 1.0, an initial zero (0) before the decimal point (or comma) should always be used.
+
+Examples:
+0.75
+p = 0.05
