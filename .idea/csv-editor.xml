@@ -3,21 +3,14 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="/lesson2/resourses/task3_resourse_files/departament.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/lesson2/resourses/task3_resourse_files/departament_hidden.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value=";" />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/lesson2/task3_resourse_files/departament.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value=";" />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/lesson2/task3_resourse_files/departament_anonymized.csv">
           <value>
             <Attribute>
               <option name="separator" value=";" />
