@@ -1,4 +1,4 @@
-![Logo](https://i.gifer.com/YQgT.gif)
+![Logo](https://art.pixilart.com/sr26cba67f65d0a.gif)
 
 # Repository Overview
 
